@@ -1,6 +1,9 @@
 # Local .terraform directories
 .terraform/
 
+# Terraform provider folder you accidentally committed
+windows_amd64/
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
